@@ -1,4 +1,4 @@
 server:
   port: 8090
 todo:
-  employeeServiceUrl: http://localhost:8060
+  employee-service-url: http://localhost:8060
